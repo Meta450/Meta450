@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">unemployed.exe terminal banner</title>
+  <desc id="desc">A dark terminal running profile dot sh live and describing SONA.</desc>
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect x="34" y="28" width="1132" height="244" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <circle cx="66" cy="58" r="7" fill="#ff7b72"/>
+  <circle cx="90" cy="58" r="7" fill="#d29922"/>
+  <circle cx="114" cy="58" r="7" fill="#3fb950"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="25">
+    <text x="66" y="112" fill="#8b949e">unemployed.exe@github</text>
+    <text x="348" y="112" fill="#c9d1d9">:</text>
+    <text x="364" y="112" fill="#58a6ff">~</text>
+    <text x="388" y="112" fill="#c9d1d9">$ ./profile.sh --live</text>
+    <text x="66" y="160" fill="#7ee787">status</text>
+    <text x="190" y="160" fill="#c9d1d9">building · listening · iterating</text>
+    <text x="66" y="202" fill="#d2a8ff">project</text>
+    <text x="190" y="202" fill="#c9d1d9">SONA — music discovery for web + Windows</text>
+    <text x="66" y="244" fill="#ffa657">stack</text>
+    <text x="190" y="244" fill="#c9d1d9">TypeScript / React / Electron / Three.js / SQLite</text>
+  </g>
+</svg>

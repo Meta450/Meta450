@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340" role="img" aria-labelledby="title desc">
+  <title id="title">SONA capability radar</title>
+  <desc id="desc">A qualitative radar chart showing strong focus across web, desktop, audio, interface and 3D.</desc>
+  <rect width="420" height="340" rx="12" fill="#0d1117"/>
+  <g transform="translate(210 174)" stroke="#30363d" fill="none">
+    <polygon points="0,-120 114,-37 70,97 -70,97 -114,-37"/>
+    <polygon points="0,-90 86,-28 53,73 -53,73 -86,-28"/>
+    <polygon points="0,-60 57,-19 35,49 -35,49 -57,-19"/>
+    <line x1="0" y1="0" x2="0" y2="-120"/><line x1="0" y1="0" x2="114" y2="-37"/><line x1="0" y1="0" x2="70" y2="97"/><line x1="0" y1="0" x2="-70" y2="97"/><line x1="0" y1="0" x2="-114" y2="-37"/>
+    <polygon points="0,-106 96,-31 60,83 -58,80 -101,-33" fill="#58a6ff" fill-opacity=".28" stroke="#58a6ff" stroke-width="3"/>
+  </g>
+  <g fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="15" text-anchor="middle">
+    <text x="210" y="29">Web</text><text x="362" y="137">Desktop</text><text x="305" y="312">Audio</text><text x="115" y="312">Interface</text><text x="58" y="137">3D</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="185" viewBox="0 0 500 185" role="img" aria-labelledby="title desc">
+  <title id="title">SONA language mix</title><desc id="desc">TypeScript 57.9 percent, JavaScript 25.6 percent, CSS 15.6 percent and other 0.9 percent.</desc>
+  <rect width="500" height="185" rx="12" fill="#0d1117"/>
+  <text x="28" y="42" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="22" font-weight="600">SONA language mix</text>
+  <rect x="28" y="68" width="257" height="18" rx="9" fill="#3178c6"/><rect x="285" y="68" width="114" height="18" fill="#f1e05a"/><rect x="399" y="68" width="69" height="18" fill="#663399"/><rect x="468" y="68" width="4" height="18" rx="2" fill="#8b949e"/>
+  <g font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">
+    <circle cx="34" cy="116" r="6" fill="#3178c6"/><text x="48" y="121">TypeScript 57.9%</text>
+    <circle cx="214" cy="116" r="6" fill="#f1e05a"/><text x="228" y="121">JavaScript 25.6%</text>
+    <circle cx="34" cy="151" r="6" fill="#663399"/><text x="48" y="156">CSS 15.6%</text>
+    <circle cx="214" cy="151" r="6" fill="#8b949e"/><text x="228" y="156">Other 0.9%</text>
+  </g>
+</svg>
